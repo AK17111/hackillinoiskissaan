@@ -6,5 +6,5 @@ References
 The sample agricultural document - (https://farmlandinfo.org/sample_documents/sample-agricultural-land-purchase-agreement/)
 The OpenAI API link was used
 
-Note: Due to licensing issues related to Github, the API token may not work. in that case, please try modifying app.py and enter a new API token which can be easily generated from the OpenAI website
+Note: A sample agricultural contract can be found along with the code files in this github repo. Due to licensing issues related to Github, the API token may not work. in that case, please try modifying app.py and enter a new API token which can be easily generated from the OpenAI website
 
