@@ -1,0 +1,67 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    padding: 32px;
+}
+.bg {
+    background-image: url(/static/bg.jpg);
+    background-size: cover;
+}
+.card {
+    background-color: #ffffffc7;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 20px #0000006e;
+}
+#upload-button {
+    display: block;
+    margin-top: 20px;
+    border: none;
+    padding: 10px 35px;
+    background: #56b3cd;
+    color: white;
+    border-radius: 6px;
+    font-size: 15px;
+}
+#success_text {
+   /* Styles for the success text section */
+    font-size: 48px;
+}
+#important_lines {
+   /* Styles for the important lines section */
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.line {
+   /* Styles for each line in the important lines section */
+    display: flex;
+    margin-bottom: 15px;
+    font-size: 19px;
+}
+.number {
+   /* Styles for the number in each line */
+    margin-right: 16px;
+}
+#ai_summary {
+   /* Styles for the AI summary section */
+    display: flex;
+    background: #80808021;
+    padding: 30px;
+    border-radius: 15px;
+}
+.summary {
+   /* Styles for the summary text in the AI summary section */
+    font-size: 23px;
+}
+.icon-of-robot img {
+   /* Styles for the robot image in the AI summary section */
+    width: 120px;
+}
+.section-header {
+    margin-bottom: 14px;
+    font-size: 25px;
+    font-weight: 400;
+}
+.ai-section {
+    margin-top: 40px;
+}
